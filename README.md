@@ -7,9 +7,8 @@ Command-line CMS for managing an organization created using a combination of MyS
 ![cmsgif2](https://user-images.githubusercontent.com/57336277/71221930-086bad00-2294-11ea-888f-ff2cdc06a5c6.gif)
 
 
-```
-## Execution
-This application is run via the command-line and is executed by entering the following command:
+## Execution for Initiation of App
+In order to run this application, one is to run it through the command-line and have it executed by entering the following command:
 ```
 node server.js
 ```
