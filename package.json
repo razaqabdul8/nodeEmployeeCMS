@@ -1,5 +1,5 @@
 {
-  "name": "employee-cms",
+  "name": "sd",
   "version": "1.0.0",
   "description": "A CMS for managing a company's employees created using node, inquirer, and MySQL.",
   "main": "server.js",
@@ -19,7 +19,8 @@
   "homepage": "https://github.com/razaqabdul8/nodeEmployeeCMS#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^7.0.1",
-    "mysql": "^2.17.1"
-  }
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
 }

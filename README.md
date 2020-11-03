@@ -3,7 +3,6 @@
 
 Command-line CMS for managing an organization created using a combination of MySQL, NodeJS, and inquirer. The purpose of the app is to allow for an adminstrator to *view* and *add* departments, roles, and employees for content management and for it to be effectively done within a system. There is also an additional functionality included: namely the the ability to *update* employees with new roles. The original seed file which is used for the creation and population of thenecessary database in MySQL workbench is included in the host application. 
 
-![cmsgif](https://user-images.githubusercontent.com/57336277/71221867-ca6e8900-2293-11ea-8bab-0f329d73393c.gif)
 ![cmsgif2](https://user-images.githubusercontent.com/57336277/71221930-086bad00-2294-11ea-888f-ff2cdc06a5c6.gif)
 
 
